@@ -1,0 +1,6274 @@
+fileFormatVersion: 2
+guid: 0246a0b471bec4e4fa99043c4127b196
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1584628439273452625
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_0
+  - first:
+      213: 6892651401825848698
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_1
+  - first:
+      213: -6362264654179283883
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_2
+  - first:
+      213: 1988020342542336378
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_3
+  - first:
+      213: 4638688287687039820
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_4
+  - first:
+      213: 8715774999942208167
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_5
+  - first:
+      213: 4149225998105395162
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_6
+  - first:
+      213: 6344153975114105999
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_7
+  - first:
+      213: 8197844676300049557
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_8
+  - first:
+      213: 4565181853082471023
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_9
+  - first:
+      213: 5468458049789086313
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_10
+  - first:
+      213: 1659264405832976443
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_11
+  - first:
+      213: 5034516153901996476
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_12
+  - first:
+      213: 4130524434766713684
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_13
+  - first:
+      213: -319428984319636869
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_14
+  - first:
+      213: 2997343715622041199
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_15
+  - first:
+      213: 1830913051240388612
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_16
+  - first:
+      213: 4356945923245354745
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_17
+  - first:
+      213: -4318125498578878768
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_18
+  - first:
+      213: -3570171491757580033
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_19
+  - first:
+      213: -5539426985851066214
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_20
+  - first:
+      213: 2442566924367605565
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_21
+  - first:
+      213: 4293038201754297386
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_22
+  - first:
+      213: -6288686098354764411
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_23
+  - first:
+      213: 6789201151267081297
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_24
+  - first:
+      213: -4378887698129292052
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_25
+  - first:
+      213: 8021907542727510453
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_26
+  - first:
+      213: 813012614829354802
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_27
+  - first:
+      213: 6305282642068252296
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_28
+  - first:
+      213: 786215792665427338
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_29
+  - first:
+      213: 6211198368536616614
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_30
+  - first:
+      213: 1488422566436179615
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_31
+  - first:
+      213: 2382329829840069890
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_32
+  - first:
+      213: -2249422256685841286
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_33
+  - first:
+      213: -4335449052978905297
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_34
+  - first:
+      213: -7773034656985216449
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_35
+  - first:
+      213: 7375368997772586781
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_36
+  - first:
+      213: -8998301402313528182
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_37
+  - first:
+      213: -1268968939859029415
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_38
+  - first:
+      213: 8211574612034456645
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_39
+  - first:
+      213: -8526745982928588925
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_40
+  - first:
+      213: 1240332496722902560
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_41
+  - first:
+      213: -2898802517984172670
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_42
+  - first:
+      213: -1414890971996849565
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_43
+  - first:
+      213: -3449555195369543819
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_44
+  - first:
+      213: -7901542605494357939
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_45
+  - first:
+      213: -6867560638626761204
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_46
+  - first:
+      213: 8775907971232720579
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_47
+  - first:
+      213: -8294836699985796829
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_48
+  - first:
+      213: 2926476855897642131
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_49
+  - first:
+      213: -1057799226507347796
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_50
+  - first:
+      213: 1068956177217744185
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_51
+  - first:
+      213: 5953045042082199923
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_52
+  - first:
+      213: 7654140818486919581
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_53
+  - first:
+      213: 4577268643102010186
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_54
+  - first:
+      213: -497678189473115540
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_55
+  - first:
+      213: 259572880616517316
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_56
+  - first:
+      213: 1305420797941781833
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_57
+  - first:
+      213: -9125726606970222348
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_58
+  - first:
+      213: 6155871289690338096
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_59
+  - first:
+      213: 6678996431172917819
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_60
+  - first:
+      213: 2088635782817946103
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_61
+  - first:
+      213: -1211413623670061674
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_62
+  - first:
+      213: -923119525399043021
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_63
+  - first:
+      213: 2604940126095960598
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_64
+  - first:
+      213: -1426973087503704194
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_65
+  - first:
+      213: -7008758456215357326
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_66
+  - first:
+      213: 782429622727273239
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_67
+  - first:
+      213: 2838023113287545518
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_68
+  - first:
+      213: 3081391988648194757
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_69
+  - first:
+      213: 434922592506908686
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_70
+  - first:
+      213: -6880195852962394966
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_71
+  - first:
+      213: -7881195304215480351
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_72
+  - first:
+      213: -6170531863656527076
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_73
+  - first:
+      213: 4702369459258157432
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_74
+  - first:
+      213: 9152659493226684471
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_75
+  - first:
+      213: 6366004968987783306
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_76
+  - first:
+      213: -2326200535713090173
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_77
+  - first:
+      213: 3773782576322022976
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_78
+  - first:
+      213: 3441283808357691619
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_79
+  - first:
+      213: 3298716323588996613
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_80
+  - first:
+      213: -3148136129877605804
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_81
+  - first:
+      213: -1367490675042186994
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_82
+  - first:
+      213: 5116729135308794105
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_83
+  - first:
+      213: 3653276734832717643
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_84
+  - first:
+      213: -8890060764889378990
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_85
+  - first:
+      213: -5036772423792138071
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_86
+  - first:
+      213: 420404900101859765
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_87
+  - first:
+      213: -823867668117918997
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_88
+  - first:
+      213: -6478938332893538047
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_89
+  - first:
+      213: -1133194011612129703
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_90
+  - first:
+      213: 4956264453598665178
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_91
+  - first:
+      213: 6765380354474055338
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_92
+  - first:
+      213: -906512113724853297
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_93
+  - first:
+      213: -5084226168223421715
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_94
+  - first:
+      213: 2992190042213872961
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_95
+  - first:
+      213: -5948702202453577482
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_96
+  - first:
+      213: 1663940443072010761
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_97
+  - first:
+      213: -7345383214342177823
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_98
+  - first:
+      213: 6270696098706199630
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_99
+  - first:
+      213: -7459581130683417203
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_100
+  - first:
+      213: -303637871238836922
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_101
+  - first:
+      213: 6465409212195140374
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_102
+  - first:
+      213: 3673683060616284296
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_103
+  - first:
+      213: 7398375914293202722
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_104
+  - first:
+      213: 1686009568812252417
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_105
+  - first:
+      213: -2705432777256460645
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_106
+  - first:
+      213: 9124758465753953934
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_107
+  - first:
+      213: -3385779598463367030
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_108
+  - first:
+      213: 8385331035749403642
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_109
+  - first:
+      213: -5667004509362840858
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_110
+  - first:
+      213: 2247172774128104731
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_111
+  - first:
+      213: -1506258329505762080
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_112
+  - first:
+      213: -5896175947377932988
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_113
+  - first:
+      213: -538799231142330091
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_114
+  - first:
+      213: -7322775778088010272
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_115
+  - first:
+      213: 2379722603000289179
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_116
+  - first:
+      213: -3540428238137346438
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_117
+  - first:
+      213: 1751080787243114467
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_118
+  - first:
+      213: 6266574859078755758
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_119
+  - first:
+      213: 2222953782610982718
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_120
+  - first:
+      213: 1793682984575256342
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_121
+  - first:
+      213: -2252225513157990039
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_122
+  - first:
+      213: -390299606069243065
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_123
+  - first:
+      213: -7855865901584073092
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_124
+  - first:
+      213: 6760907155129304337
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_125
+  - first:
+      213: -6853019097831600080
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_126
+  - first:
+      213: 7798039426599922756
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_127
+  - first:
+      213: -2460264343197756337
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_128
+  - first:
+      213: -1911709822178114844
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_129
+  - first:
+      213: -2277184309539915807
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_130
+  - first:
+      213: 7123289313734492547
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_131
+  - first:
+      213: -1662194117271374497
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_132
+  - first:
+      213: -6685471597464792092
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_133
+  - first:
+      213: -3861494277631038262
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_134
+  - first:
+      213: 4523030052871568765
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_135
+  - first:
+      213: -981166344761791724
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_136
+  - first:
+      213: -6711532689688148642
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_137
+  - first:
+      213: -5698657352472250518
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_138
+  - first:
+      213: 5802022000409302644
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_139
+  - first:
+      213: 3403416721951014647
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_140
+  - first:
+      213: 1165844017820612903
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_141
+  - first:
+      213: 2980664401929523721
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_142
+  - first:
+      213: 2224778601641168086
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_143
+  - first:
+      213: 7168811107945882291
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_144
+  - first:
+      213: 8813804788782650055
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_145
+  - first:
+      213: 516654118621247718
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_146
+  - first:
+      213: -1208033303462776194
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_147
+  - first:
+      213: 9083433056171125829
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_148
+  - first:
+      213: 6050071945235267983
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_149
+  - first:
+      213: 6965124949212899609
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_150
+  - first:
+      213: 8909808934117302673
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_151
+  - first:
+      213: 5684813640519618662
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_152
+  - first:
+      213: -5037250249029329568
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_153
+  - first:
+      213: -4337417857835646500
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_154
+  - first:
+      213: -265161700732490113
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_155
+  - first:
+      213: 3252442420504236642
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_156
+  - first:
+      213: 5980063341308643090
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_157
+  - first:
+      213: 1169871217205936711
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_158
+  - first:
+      213: 706996284559366590
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_159
+  - first:
+      213: -2154265400736872984
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_160
+  - first:
+      213: -8982517649932936554
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_161
+  - first:
+      213: 5892661900538399745
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_162
+  - first:
+      213: 747894670554556424
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_163
+  - first:
+      213: 7499392301637736937
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_164
+  - first:
+      213: 3295810180943327498
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_165
+  - first:
+      213: -2012644802131438802
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_166
+  - first:
+      213: -7707794483929643414
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_167
+  - first:
+      213: 1599613063219275461
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_168
+  - first:
+      213: -861971103399060506
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_169
+  - first:
+      213: -1092441525623255205
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_170
+  - first:
+      213: 330269699124493607
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_171
+  - first:
+      213: 4177117359591838593
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_172
+  - first:
+      213: 6117973756128128923
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_173
+  - first:
+      213: -3224656809774858505
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_174
+  - first:
+      213: -257168685469713677
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_175
+  - first:
+      213: 7819974589142521909
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_176
+  - first:
+      213: 5074774715164743190
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_177
+  - first:
+      213: 8811738798043306970
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_178
+  - first:
+      213: 663342296389212443
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_179
+  - first:
+      213: -2867367354097916136
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_180
+  - first:
+      213: 1387189611611518836
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_181
+  - first:
+      213: 4264269504645009267
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_182
+  - first:
+      213: -1694036354505888979
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_183
+  - first:
+      213: 3979169696671424100
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_184
+  - first:
+      213: -8775194323576820248
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_185
+  - first:
+      213: -7607430302522069086
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_186
+  - first:
+      213: -3065137680473896832
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_187
+  - first:
+      213: 8444060827935462034
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_188
+  - first:
+      213: -8126672651763811783
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_189
+  - first:
+      213: 2788273511174730093
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_190
+  - first:
+      213: -186501081275329661
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_191
+  - first:
+      213: 1520087346898924761
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_192
+  - first:
+      213: 5032377018129144511
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_193
+  - first:
+      213: -70095587451223208
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_194
+  - first:
+      213: 5436885508463536706
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_195
+  - first:
+      213: 3837499153455706819
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_196
+  - first:
+      213: 3415510845542623531
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_197
+  - first:
+      213: 3374103651469055799
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_198
+  - first:
+      213: 8075523182744771366
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_199
+  - first:
+      213: -861303265710806410
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_200
+  - first:
+      213: 1101053862714275111
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_201
+  - first:
+      213: -6418856097622372189
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_202
+  - first:
+      213: 9165151132403760081
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_203
+  - first:
+      213: 6870305585220401347
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_204
+  - first:
+      213: 3687475473431474671
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_205
+  - first:
+      213: 7347295240019473243
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_206
+  - first:
+      213: -4663236439387500754
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_207
+  - first:
+      213: 5574632922873824045
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_208
+  - first:
+      213: 8829413881165831560
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_209
+  - first:
+      213: -4651260279814106030
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_210
+  - first:
+      213: -5608755630153195712
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_211
+  - first:
+      213: -7159363090323392305
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_212
+  - first:
+      213: -3394746545106518341
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_213
+  - first:
+      213: -9001780227216195088
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_214
+  - first:
+      213: 6264910657081512624
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_215
+  - first:
+      213: -4153357807106744522
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_216
+  - first:
+      213: 2129795714998522860
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_217
+  - first:
+      213: 8949337443175825930
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_218
+  - first:
+      213: 1899071743292340829
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_219
+  - first:
+      213: 4838493929124150090
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_220
+  - first:
+      213: 6704363868510882500
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_221
+  - first:
+      213: -7226843979861055108
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_222
+  - first:
+      213: -6611432614620264771
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_223
+  - first:
+      213: 5398872468545265096
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_224
+  - first:
+      213: 6191122807652040407
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_225
+  - first:
+      213: -448691567114469181
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_226
+  - first:
+      213: 4512782787304637244
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_227
+  - first:
+      213: -6717966278687453132
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_228
+  - first:
+      213: -3628609975341907204
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_229
+  - first:
+      213: 6194481498031092130
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_230
+  - first:
+      213: 7270473787126753496
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_231
+  - first:
+      213: -5119590581236228787
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_232
+  - first:
+      213: 7201469398504438328
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_233
+  - first:
+      213: 4003130324142685850
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_234
+  - first:
+      213: 2852583634171370747
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_235
+  - first:
+      213: -4593799737715092083
+    second: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+      (1)_236
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1594
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15430e77b2bbdf510800000000000000
+      internalID: 1584628439273452625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1594
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d8d6e5eed97af50800000000000000
+      internalID: 6892651401825848698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1594
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cce987102b4b7a0800000000000000
+      internalID: -6362264654179283883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1594
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a718c73f7fdd69b10800000000000000
+      internalID: 1988020342542336378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1594
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bd95bbb6eef5040800000000000000
+      internalID: 4638688287687039820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1594
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa19cd2f27a4f870800000000000000
+      internalID: 8715774999942208167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1594
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf33edcf03059930800000000000000
+      internalID: 4149225998105395162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1594
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f840f077d66fa0850800000000000000
+      internalID: 6344153975114105999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1547
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c01be8c4894c170800000000000000
+      internalID: 8197844676300049557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1547
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a4a0045b8ca5f30800000000000000
+      internalID: 4565181853082471023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1547
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96acdc68f9dd3eb40800000000000000
+      internalID: 5468458049789086313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1547
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38cf1a9f24e60710800000000000000
+      internalID: 1659264405832976443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_12
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1547
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb95b4994c13ed540800000000000000
+      internalID: 5034516153901996476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1547
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4535756c612925930800000000000000
+      internalID: 4130524434766713684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1547
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a0aaaf709219bf0800000000000000
+      internalID: -319428984319636869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_15
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1547
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66b66f8a34b89920800000000000000
+      internalID: 2997343715622041199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_16
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1547
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4085fc138b5b86910800000000000000
+      internalID: 1830913051240388612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_17
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1547
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe20acab3bf67c30800000000000000
+      internalID: 4356945923245354745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1493
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de36a9ccbfe214c0800000000000000
+      internalID: -4318125498578878768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1492
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0209e91f3347ec0800000000000000
+      internalID: -3570171491757580033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1495
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98622961800023b0800000000000000
+      internalID: -5539426985851066214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_21
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1495
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fac0b2dadb5e120800000000000000
+      internalID: 2442566924367605565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1498
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a242fbebf7fe39b30800000000000000
+      internalID: 4293038201754297386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1496
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58580abff491ab8a0800000000000000
+      internalID: -6288686098354764411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1495
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c82f1f976183e50800000000000000
+      internalID: 6789201151267081297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_25
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1493
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4fca1c6d01b33c0800000000000000
+      internalID: -4378887698129292052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1493
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9cc41886a835f60800000000000000
+      internalID: 8021907542727510453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_27
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1442
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fa0d86aa6684b00800000000000000
+      internalID: 813012614829354802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_28
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1442
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8862ae8f72dd08750800000000000000
+      internalID: 6305282642068252296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_29
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1443
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dff9e091339ea00800000000000000
+      internalID: 786215792665427338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_30
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1443
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae5c12020c923650800000000000000
+      internalID: 6211198368536616614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_31
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1443
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e8a1c2070f7a410800000000000000
+      internalID: 1488422566436179615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1443
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2052f6dab5cbf0120800000000000000
+      internalID: 2382329829840069890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_33
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1388
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a740260206278c0e0800000000000000
+      internalID: -2249422256685841286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_34
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1388
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f73677e0465d3c0800000000000000
+      internalID: -4335449052978905297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_35
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1388
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a889ba922a02490800000000000000
+      internalID: -7773034656985216449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1388
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fe9afe6039a5660800000000000000
+      internalID: 7375368997772586781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_37
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1388
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ce335bc8c9f1380800000000000000
+      internalID: -8998301402313528182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1388
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952d2b4f877b36ee0800000000000000
+      internalID: -1268968939859029415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_39
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1388
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c0ee45a9f55f170800000000000000
+      internalID: 8211574612034456645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_40
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1337
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f6d8584b9eaa980800000000000000
+      internalID: -8526745982928588925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_41
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1337
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02eba8e85db863110800000000000000
+      internalID: 1240332496722902560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_42
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1337
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285ab89e77265c7d0800000000000000
+      internalID: -2898802517984172670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_43
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1337
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a783a482c4d5ce0800000000000000
+      internalID: -1414890971996849565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_44
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1337
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57725ea83d7b020d0800000000000000
+      internalID: -3449555195369543819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_45
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1337
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40f4ed4dd4185290800000000000000
+      internalID: -7901542605494357939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_46
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1337
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06723d2cf581b0a0800000000000000
+      internalID: -6867560638626761204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_47
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1337
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c668d69dc94ac970800000000000000
+      internalID: 8775907971232720579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_48
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1282
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321297328f1d2ec80800000000000000
+      internalID: -8294836699985796829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_49
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1282
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3945e2ff13fec9820800000000000000
+      internalID: 2926476855897642131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_50
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1281
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8b85c3531f151f0800000000000000
+      internalID: -1057799226507347796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_51
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1281
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93de587caf1b5de00800000000000000
+      internalID: 1068956177217744185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_52
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1281
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379b539dce67d9250800000000000000
+      internalID: 5953045042082199923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_53
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1281
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d910bb26588f83a60800000000000000
+      internalID: 7654140818486919581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_54
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1281
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b21a95499b58f30800000000000000
+      internalID: 4577268643102010186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_55
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1281
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62deffc254e719f0800000000000000
+      internalID: -497678189473115540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_56
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1230
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cee87ed8203a9300800000000000000
+      internalID: 259572880616517316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_57
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1230
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9451abf9c49cd1210800000000000000
+      internalID: 1305420797941781833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_58
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1226
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8853a4008ea5180800000000000000
+      internalID: -9125726606970222348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_59
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1230
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033b401a25c0e6550800000000000000
+      internalID: 6155871289690338096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_60
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1230
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ad9280edf80bc50800000000000000
+      internalID: 6678996431172917819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_61
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1232
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9980cad235cfc10800000000000000
+      internalID: 2088635782817946103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_62
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1230
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695c3154ab1303fe0800000000000000
+      internalID: -1211413623670061674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_63
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1175
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334ec5bbeab6033f0800000000000000
+      internalID: -923119525399043021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_64
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1175
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a6c1d3e3b962420800000000000000
+      internalID: 2604940126095960598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_65
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1175
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f9c4f898f523ce0800000000000000
+      internalID: -1426973087503704194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_66
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1175
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278b4cc6153ebbe90800000000000000
+      internalID: -7008758456215357326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_67
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1175
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71be66ca89fbbda00800000000000000
+      internalID: 782429622727273239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_68
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1175
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea23adb2cfea26720800000000000000
+      internalID: 2838023113287545518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_69
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1175
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c23c1110bd43ca20800000000000000
+      internalID: 3081391988648194757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_70
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1175
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e009a272bc7290600800000000000000
+      internalID: 434922592506908686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_71
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1175
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac8f071352a480a0800000000000000
+      internalID: -6880195852962394966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_72
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1120
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e772ce80ae50a290800000000000000
+      internalID: -7881195304215480351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_73
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1119
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b068f76fddd5aa0800000000000000
+      internalID: -6170531863656527076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_74
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1119
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8796ab5eb1c224140800000000000000
+      internalID: 4702369459258157432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_75
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1119
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73022e3f057c40f70800000000000000
+      internalID: 9152659493226684471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_76
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1119
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8073ee6ac7985850800000000000000
+      internalID: 6366004968987783306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_77
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1060
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3857f7000fca7bfd0800000000000000
+      internalID: -2326200535713090173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_78
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1062
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e8b31424b2f5430800000000000000
+      internalID: 3773782576322022976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_79
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1064
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0b6781465e1cf20800000000000000
+      internalID: 3441283808357691619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_80
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1062
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50efd4ad40567cd20800000000000000
+      internalID: 3298716323588996613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_81
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1066
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45282129ed29f44d0800000000000000
+      internalID: -3148136129877605804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_82
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1068
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e098370f972b50de0800000000000000
+      internalID: -1367490675042186994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_83
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1068
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8e8f9f906420740800000000000000
+      internalID: 5116729135308794105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_84
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1071
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f27ed95db03b230800000000000000
+      internalID: 3653276734832717643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_85
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1067
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f812df5d820a480800000000000000
+      internalID: -8890060764889378990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_86
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1062
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8e261aa2ac91ab0800000000000000
+      internalID: -5036772423792138071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_87
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1004
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9a76c770495d500800000000000000
+      internalID: 420404900101859765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_88
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1006
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beae6eb88b80194f0800000000000000
+      internalID: -823867668117918997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_89
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1006
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1091832c9ef2616a0800000000000000
+      internalID: -6478938332893538047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_90
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1006
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9565244ec061640f0800000000000000
+      internalID: -1133194011612129703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_91
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1006
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9d4a9d24038c440800000000000000
+      internalID: 4956264453598665178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_92
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1006
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa615de769573ed50800000000000000
+      internalID: 6765380354474055338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_93
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1006
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc377d4190c6b63f0800000000000000
+      internalID: -906512113724853297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_94
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1006
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea2c45cc333179b0800000000000000
+      internalID: -5084226168223421715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_95
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1006
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1457e967df4668920800000000000000
+      internalID: 2992190042213872961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_96
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 952
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0bb2c4dd6f17da0800000000000000
+      internalID: -5948702202453577482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_97
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 955
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a96bc5401871710800000000000000
+      internalID: 1663940443072010761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_98
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 955
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb740252e4ff0a90800000000000000
+      internalID: -7345383214342177823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_99
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 955
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e449fc1d0ecf50750800000000000000
+      internalID: 6270696098706199630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_100
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 955
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d7864fb7e3a7890800000000000000
+      internalID: -7459581130683417203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_101
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 955
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d047007f249cbf0800000000000000
+      internalID: -303637871238836922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_102
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 955
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613fd6c5c6fb9b950800000000000000
+      internalID: 6465409212195140374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_103
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 888
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 7, z: 0, w: 4}
+      outline:
+      - - {x: -19.5, y: -20.5}
+        - {x: -20.5, y: 3.5}
+        - {x: 40.5, y: 3.5}
+        - {x: 40.5, y: -20.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8884765974b8bf230800000000000000
+      internalID: 3673683060616284296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_104
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 904
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f804e12bf4ca660800000000000000
+      internalID: 7398375914293202722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_105
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 904
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10db6fc15c8e56710800000000000000
+      internalID: 1686009568812252417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_106
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 904
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e1eeb193f547ad0800000000000000
+      internalID: -2705432777256460645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_107
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 906
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86b084ca77a1ae70800000000000000
+      internalID: 9124758465753953934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_108
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 904
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8883d1d46b4301d0800000000000000
+      internalID: -3385779598463367030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_109
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 853
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbc6ed462eae5470800000000000000
+      internalID: 8385331035749403642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_110
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 852
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea14ee7c61ca51b0800000000000000
+      internalID: -5667004509362840858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_111
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 852
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15b5d66bbf8f2f10800000000000000
+      internalID: 2247172774128104731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_112
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 852
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4f5d1a702b81be0800000000000000
+      internalID: -1506258329505762080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_113
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 799
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445065317339c2ea0800000000000000
+      internalID: -5896175947377932988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_114
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 799
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511028634fcc588f0800000000000000
+      internalID: -538799231142330091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_115
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 799
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edba314a36406a90800000000000000
+      internalID: -7322775778088010272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_116
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 799
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97dccf5919760120800000000000000
+      internalID: 2379722603000289179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_117
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 799
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76bf01864fdddec0800000000000000
+      internalID: -3540428238137346438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_118
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 799
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef13a8c2b61d4810800000000000000
+      internalID: 1751080787243114467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_119
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 799
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea568c1f1a857f650800000000000000
+      internalID: 6266574859078755758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_120
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 799
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3773a400b489de10800000000000000
+      internalID: 2222953782610982718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_121
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 747
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617454fcb2174e810800000000000000
+      internalID: 1793682984575256342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_122
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 747
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969652e14dc7eb0e0800000000000000
+      internalID: -2252225513157990039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_123
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 747
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74394408390659af0800000000000000
+      internalID: -390299606069243065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_124
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 766
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e3afca59b5af290800000000000000
+      internalID: -7855865901584073092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_125
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 746
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11501ec9c3193dd50800000000000000
+      internalID: 6760907155129304337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_126
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 746
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03097ca707f25e0a0800000000000000
+      internalID: -6853019097831600080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_127
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 759
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44caafeea83383c60800000000000000
+      internalID: 7798039426599922756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_128
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 686
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44532a6d926bddd0800000000000000
+      internalID: -2460264343197756337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_129
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 686
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2c27f9b0e3875e0800000000000000
+      internalID: -1911709822178114844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_130
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 686
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7b7cd7fe0d560e0800000000000000
+      internalID: -2277184309539915807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_131
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 688
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3810b79d3e10bd260800000000000000
+      internalID: 7123289313734492547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_132
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 690
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55bb4cc143bee8e0800000000000000
+      internalID: -1662194117271374497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_133
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 689
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3d525d00f6833a0800000000000000
+      internalID: -6685471597464792092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_134
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 688
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc299fd967396ac0800000000000000
+      internalID: -3861494277631038262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_135
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 687
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d73d97ed705ce30800000000000000
+      internalID: 4523030052871568765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_136
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 689
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ba7ea68623262f0800000000000000
+      internalID: -981166344761791724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_137
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 635
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5547b4f398dbd2a0800000000000000
+      internalID: -6711532689688148642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_138
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 637
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a673939a45d4ae0b0800000000000000
+      internalID: -5698657352472250518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_139
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 639
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476d569d44ce48050800000000000000
+      internalID: 5802022000409302644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_140
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 636
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7feb38ef97d5b3f20800000000000000
+      internalID: 3403416721951014647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_141
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 636
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72936b115f8ed2010800000000000000
+      internalID: 1165844017820612903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_142
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 636
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90259a73b727d5920800000000000000
+      internalID: 2980664401929523721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_143
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 637
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc46bec95000ee10800000000000000
+      internalID: 2224778601641168086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_144
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 587
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b22dfe78bbbc7360800000000000000
+      internalID: 7168811107945882291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_145
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 587
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2d60302cce05a70800000000000000
+      internalID: 8813804788782650055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_146
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 587
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8792cfe268b2700800000000000000
+      internalID: 516654118621247718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_147
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 587
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7272466c143c3fe0800000000000000
+      internalID: -1208033303462776194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_148
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 587
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cee1e0d36de0e70800000000000000
+      internalID: 9083433056171125829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_149
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 587
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f810e49216c26f350800000000000000
+      internalID: 6050071945235267983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_150
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 587
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919ab0e0d3819a060800000000000000
+      internalID: 6965124949212899609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_151
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 579
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191e9a6f40006ab70800000000000000
+      internalID: 8909808934117302673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_152
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 579
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6609779f2e384ee40800000000000000
+      internalID: 5684813640519618662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_153
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 579
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ddbd54697181ab0800000000000000
+      internalID: -5037250249029329568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_154
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 580
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1454d50756ec3c0800000000000000
+      internalID: -4337417857835646500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_155
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 524
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e2dcb86d4f15cf0800000000000000
+      internalID: -265161700732490113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_156
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 531
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2621196362ff22d20800000000000000
+      internalID: 3252442420504236642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_157
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 531
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2178909dce37df250800000000000000
+      internalID: 5980063341308643090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_158
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 540
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742838e7ca73c3010800000000000000
+      internalID: 1169871217205936711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_159
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 540
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb99eaeff51cfc900800000000000000
+      internalID: 706996284559366590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_160
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 540
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e50a2528038a12e0800000000000000
+      internalID: -2154265400736872984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_161
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 540
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a121fe9cfa75380800000000000000
+      internalID: -8982517649932936554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_162
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 500
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cc11327c0f6c150800000000000000
+      internalID: 5892661900538399745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_163
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 500
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808efc78d3e016a00800000000000000
+      internalID: 747894670554556424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_164
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 500
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e99a6a9091331860800000000000000
+      internalID: 7499392301637736937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_165
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 500
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a013e3ac5e11dbd20800000000000000
+      internalID: 3295810180943327498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_166
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 498
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e235be54736a114e0800000000000000
+      internalID: -2012644802131438802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_167
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 498
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6688a721c9680590800000000000000
+      internalID: -7707794483929643414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_168
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 498
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6624b1b97f23610800000000000000
+      internalID: 1599613063219275461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_169
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 499
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb5f3f29d9a904f0800000000000000
+      internalID: -861971103399060506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_170
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 468
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f075f683ed6d0f0800000000000000
+      internalID: -1092441525623255205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_171
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 457
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72df360aa8a559400800000000000000
+      internalID: 330269699124493607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_172
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 457
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183d6937b1a18f930800000000000000
+      internalID: 4177117359591838593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_173
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 457
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fed2f77b867e450800000000000000
+      internalID: 6117973756128128923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_174
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 457
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe33da67b7bf33d0800000000000000
+      internalID: -3224656809774858505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_175
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 252
+        width: 321
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa393f617a5e6cf0800000000000000
+      internalID: -257168685469713677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_176
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 419
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538db62f471268c60800000000000000
+      internalID: 7819974589142521909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_177
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 419
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616578457b83d6640800000000000000
+      internalID: 5074774715164743190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_178
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 419
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb16ee00c5994a70800000000000000
+      internalID: 8811738798043306970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_179
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 419
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1955c4dd4aa43900800000000000000
+      internalID: 663342296389212443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_180
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 419
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817217a55901538d0800000000000000
+      internalID: -2867367354097916136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_181
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 419
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47777342a99404310800000000000000
+      internalID: 1387189611611518836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_182
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 419
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f85ea758abd2b30800000000000000
+      internalID: 4264269504645009267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_183
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 391
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b241539e29d78e0800000000000000
+      internalID: -1694036354505888979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_184
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 391
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e591fa1c9d83730800000000000000
+      internalID: 3979169696671424100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_185
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 391
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eded24714f383680800000000000000
+      internalID: -8775194323576820248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_186
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 391
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af21ac127afc6690800000000000000
+      internalID: -7607430302522069086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_187
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 391
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08840b7f4817675d0800000000000000
+      internalID: -3065137680473896832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_188
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 391
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29252ee95945f2570800000000000000
+      internalID: 8444060827935462034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_189
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 391
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a7cb9b742483f80800000000000000
+      internalID: -8126672651763811783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_190
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 365
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61733a4cffe1b620800000000000000
+      internalID: 2788273511174730093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_191
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 365
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3839b54314a696df0800000000000000
+      internalID: -186501081275329661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_192
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 365
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4f973636f681510800000000000000
+      internalID: 1520087346898924761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_193
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 365
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba5d6d3c3896d540800000000000000
+      internalID: 5032377018129144511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_194
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 365
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853c5a14f68f60ff0800000000000000
+      internalID: -70095587451223208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_195
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 365
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a20786092b37b40800000000000000
+      internalID: 5436885508463536706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_196
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 314
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2f69be529814530800000000000000
+      internalID: 3837499153455706819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_197
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 314
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29ef039405566f20800000000000000
+      internalID: 3415510845542623531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_198
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 314
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737592de46933de20800000000000000
+      internalID: 3374103651469055799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_199
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 314
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b1fea7c85021070800000000000000
+      internalID: 8075523182744771366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_200
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 189
+        width: 366
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a6c634e390c04f0800000000000000
+      internalID: -861303265710806410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_201
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 108
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725f7ad87aab74f00800000000000000
+      internalID: 1101053862714275111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_202
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 107
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a05ed44364abe6a0800000000000000
+      internalID: -6418856097622372189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_203
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 107
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbf1b75568213f70800000000000000
+      internalID: 9165151132403760081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_204
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 107
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8b171878a385f50800000000000000
+      internalID: 6870305585220401347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_205
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 107
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe139dfe76b8c2330800000000000000
+      internalID: 3687475473431474671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_206
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 107
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b537749d716d6f560800000000000000
+      internalID: 7347295240019473243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_207
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 108
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f86ae4a2bd84fb0800000000000000
+      internalID: -4663236439387500754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_208
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2387119b131d5d40800000000000000
+      internalID: 5574632922873824045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_209
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ddac90521688a70800000000000000
+      internalID: 8829413881165831560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_210
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 55
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254dbcf3b67637fb0800000000000000
+      internalID: -4651260279814106030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_211
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 55
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f1fb88872b922b0800000000000000
+      internalID: -5608755630153195712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_212
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 42
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc83b378335d4ac90800000000000000
+      internalID: -7159363090323392305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_213
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 55
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbef07cd00073e0d0800000000000000
+      internalID: -3394746545106518341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_214
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 55
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1c4aaa390431380800000000000000
+      internalID: -9001780227216195088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_215
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 55
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b217e8bc0f61f650800000000000000
+      internalID: 6264910657081512624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_216
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 55
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f9e42741f4c56c0800000000000000
+      internalID: -4153357807106744522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_217
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 55
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3d2ac2bed8e8d10800000000000000
+      internalID: 2129795714998522860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_218
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 55
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02099b2dfe623c70800000000000000
+      internalID: 8949337443175825930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_219
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 55
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5afbe550bbda5a10800000000000000
+      internalID: 1899071743292340829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_220
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 56
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b3455d798c52340800000000000000
+      internalID: 4838493929124150090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_221
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 55
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca0e8bca6faa0d50800000000000000
+      internalID: 6704363868510882500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_222
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 56
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79263590b715bb90800000000000000
+      internalID: -7226843979861055108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_223
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 58
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6802dd0197f34a0800000000000000
+      internalID: -6611432614620264771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_224
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 59
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdd64bd7e5acea40800000000000000
+      internalID: 5398872468545265096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_225
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 59
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de3bee34694be550800000000000000
+      internalID: 6191122807652040407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_226
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 14
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0cd60a56de5c9f0800000000000000
+      internalID: -448691567114469181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_227
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 15
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c334ac90900a0ae30800000000000000
+      internalID: 4512782787304637244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_228
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 16
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43018c9434df4c2a0800000000000000
+      internalID: -6717966278687453132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_229
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 15
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf28e4fd37694adc0800000000000000
+      internalID: -3628609975341907204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_230
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 40
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a17fd94a1837f550800000000000000
+      internalID: 6194481498031092130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_231
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 23
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8aa768369e5e460800000000000000
+      internalID: 7270473787126753496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_232
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 25
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d9af9bd7f83f8b0800000000000000
+      internalID: -5119590581236228787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_233
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 31
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83af3be4342c0f360800000000000000
+      internalID: 7201469398504438328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_234
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 18
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e7e1002d9fd8730800000000000000
+      internalID: 4003130324142685850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_235
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 24
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc90ee93b9669720800000000000000
+      internalID: 2852583634171370747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bomberman Customs - Bomberman Super Bomberman 2-Style
+        (1)_236
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 26
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8595304a7b8f30c0800000000000000
+      internalID: -4593799737715092083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
